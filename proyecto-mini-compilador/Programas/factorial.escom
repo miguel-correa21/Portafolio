@@ -1,0 +1,12 @@
+{ factorial
+}
+
+leer x; {introducir un entero}
+si 0 < x entonces {no calcula si x <= 0}
+	fact := 1;
+	repetir
+	 fact := fact * x;
+	 x := x - 1
+	hasta x = 0;
+	escribir fact {salida del factorial de x}
+fin

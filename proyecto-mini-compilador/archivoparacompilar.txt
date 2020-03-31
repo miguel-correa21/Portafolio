@@ -1,0 +1,22 @@
+compilar el compilador
+bison bison.y -d
+flex flex.l 
+gcc *.c -c
+gcc *.o -lfl -o compilador
+
+Los programas de prueba para el compilador estan en la carpeta Programas y tienen extención .escom.
+para compilar un programa se pasa como argumento el archivo con extencion .escom.
+Ejemplo:
+
+./compilador Programas/sumas.escom.
+
+El compilador te genera un archivo con extención .scm  el cual contiene código ensamblador de la maquina virtual
+que se hizo.
+
+para correr el código ensamblador se debe de pasar el archivo con extención .scm  como argumento a la maquina
+virtual. 
+Ejemplo:
+./maquinaVirtual/simulador sumas.scm
+
+se va a iniciar la maquina virtual, se introduce el comando go para correr el programa
+y quit para salir de la maquina virtual.

@@ -1,0 +1,14 @@
+leer min;
+leer max;
+
+suma := min;
+contador := 0;
+
+repetir
+contador := contador + 1;
+suma := suma + contador;
+condicion := max - contador
+hasta condicion = 0;
+
+suma := suma - 1;
+escribir suma

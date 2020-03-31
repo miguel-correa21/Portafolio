@@ -1,0 +1,129 @@
+[{
+        "nombre": "Samsung Galaxy S6",
+        "Pantalla": "5.1 pulgadas QHD sAMOLED",
+        "SistemaOperativo": "Android 5.0 Lollipop",
+        "Almacenamiento": "32GB, 64GB, 128GB",
+        "Resolucion": "2,560x1,440 pixeles",
+        "Bateria": "2,550mAh",
+        "Imagen": "data/images/s6.jpg"
+    },
+    {
+        "nombre": "Samsung Galaxy S6",
+        "Pantalla": "5.1 pulgadas QHD sAMOLED",
+        "SistemaOperativo": "Android 5.0 Lollipop",
+        "Almacenamiento": "32GB, 64GB, 128GB",
+        "Resolucion": "2,560x1,440 pixeles",
+        "Bateria": "2,550mAh",
+        "Imagen": "data/images/s6.jpg"
+    },
+    {
+        "nombre": "Motorola X",
+        "Pantalla": "3.1 pulgadas",
+        "SistemaOperativo": "Android 5.0 Lollipop",
+        "Almacenamiento": "12GB",
+        "Resolucion": "2,032x1,090 pixeles",
+        "Bateria": "2,383mAh",
+        "Imagen": "data/images/003Z.jpg"
+    },
+    {
+        "nombre": "Motorola X",
+        "Pantalla": "3.1 pulgadas",
+        "SistemaOperativo": "Android 5.0 Lollipop",
+        "Almacenamiento": "12GB",
+        "Resolucion": "2,032x1,090 pixeles",
+        "Bateria": "2,383mAh",
+        "Imagen": "data/images/003Z.jpg"
+    },
+    {
+        "nombre": "Windows phone",
+        "Pantalla": "4.1 pulgadas sAMOLED",
+        "SistemaOperativo": "Windows phone",
+        "Almacenamiento": "32GB, 64GB, 128GB",
+        "Resolucion": "2,334x1,820 pixeles",
+        "Bateria": "2,324mAh",
+        "Imagen": "data/images/005SH.jpg"
+    },
+    {
+        "nombre": "Windows phone",
+        "Pantalla": "4.1 pulgadas sAMOLED",
+        "SistemaOperativo": "Windows phone",
+        "Almacenamiento": "32GB, 64GB, 128GB",
+        "Resolucion": "2,334x1,820 pixeles",
+        "Bateria": "2,324mAh",
+        "Imagen": "data/images/005SH.jpg"
+    },
+    {
+        "nombre": "Iphone 5 Plus",
+        "Pantalla": "6.1 pulgadas ",
+        "SistemaOperativo": "IOS",
+        "Almacenamiento": "64GB",
+        "Resolucion": "2,666x1,254 pixeles",
+        "Bateria": "1,550mAh",
+        "Imagen": "data/images/iphone-5s.jpg"
+    },
+    {
+        "nombre": "Iphone 5 Plus",
+        "Pantalla": "6.1 pulgadas ",
+        "SistemaOperativo": "IOS",
+        "Almacenamiento": "64GB",
+        "Resolucion": "2,666x1,254 pixeles",
+        "Bateria": "1,550mAh",
+        "Imagen": "data/images/iphone-5s.jpg"
+    },
+    {
+        "nombre": "Motorola 3X",
+        "Pantalla": "5.5 pulgadas ",
+        "SistemaOperativo": "Android 6.2",
+        "Almacenamiento": "64GB",
+        "Resolucion": "2,332x1,190 pixeles",
+        "Bateria": "1,330mAh",
+        "Imagen": "data/images/007HW.jpg"
+    },
+
+    {
+        "nombre": "Motorola 3X",
+        "Pantalla": "5.5 pulgadas ",
+        "SistemaOperativo": "Android 6.2",
+        "Almacenamiento": "64GB",
+        "Resolucion": "2,332x1,190 pixeles",
+        "Bateria": "1,330mAh",
+        "Imagen": "data/images/007HW.jpg"
+    },
+
+    {
+        "nombre": "Iphone X",
+        "Pantalla": "6.1 pulgadas",
+        "SistemaOperativo": "IOS",
+        "Almacenamiento": "32GB",
+        "Resolucion": "2,002x1,990 pixeles",
+        "Bateria": "2,340mAh",
+        "Imagen": "data/images/iphone-x.jpg"
+    },
+    {
+        "nombre": "Iphone X",
+        "Pantalla": "6.1 pulgadas",
+        "SistemaOperativo": "IOS",
+        "Almacenamiento": "32GB",
+        "Resolucion": "2,002x1,990 pixeles",
+        "Bateria": "2,340mAh",
+        "Imagen": "data/images/iphone-x.jpg"
+    },
+    {
+        "nombre": "Blackberry",
+        "Pantalla": "3.1 pulgadas QHD",
+        "SistemaOperativo": "Blackberry 2.3",
+        "Almacenamiento": "12GB",
+        "Resolucion": "2,360x1,540 pixeles",
+        "Bateria": "2,920mAh",
+        "Imagen": "data/images/007SH_KT.jpg"
+    },
+    {
+        "nombre": "Blackberry",
+        "Pantalla": "3.1 pulgadas QHD",
+        "SistemaOperativo": "Blackberry 2.3",
+        "Almacenamiento": "12GB",
+        "Resolucion": "2,360x1,540 pixeles",
+        "Bateria": "2,920mAh",
+        "Imagen": "data/images/007SH_KT.jpg"
+    }
+]

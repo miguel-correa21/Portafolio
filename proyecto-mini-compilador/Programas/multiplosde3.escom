@@ -1,0 +1,17 @@
+{este programa saca los multiplos de un rango}
+leer y;
+leer x;
+leer divisor;
+
+contador := y;
+
+repetir
+	contador := contador + 1;
+	par := contador / divisor;
+	res := contador - ( par * divisor);
+	condicion := x - contador;
+	si 0 = res entonces
+		escribir contador 
+	fin	
+
+hasta condicion = 0

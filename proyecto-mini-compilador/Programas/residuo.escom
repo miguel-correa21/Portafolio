@@ -1,0 +1,9 @@
+leer x;
+leer y;
+div := x / y;
+res := x - (div * y);
+escribir res
+
+
+
+
